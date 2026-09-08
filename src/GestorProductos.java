@@ -143,6 +143,8 @@ public class GestorProductos extends JFrame {
         cmbCategoria.addItem("Bebidas");
         cmbCategoria.addItem("Limpieza");
         cmbCategoria.addItem("Verduleria");
+        cmbCategoria.addItem("Carnicería");
+        cmbCategoria.addItem("Otros otros");
         cmbCategoria.addItem("Otros");
 
         // Agregamos el ComboBox.
