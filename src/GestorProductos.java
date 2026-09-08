@@ -141,6 +141,8 @@ public class GestorProductos extends JFrame {
         // Agregamos las opciones.
         cmbCategoria.addItem("Almacén");
         cmbCategoria.addItem("Bebidas");
+        cmbCategoria.addItem("Frutas");
+        cmbCategoria.addItem("Construcción");
         cmbCategoria.addItem("Limpieza");
         cmbCategoria.addItem("Verduleria");
         cmbCategoria.addItem("Otros");
